@@ -25,7 +25,7 @@ class Portfolio extends Component {
         <Fade left duration={1000} distance="40px">
           <div className="row">
             <div className="twelve columns collapsed">
-              <h1>Check Out Some of My Works.</h1>
+              <h1>Patents</h1>
 
               <div
                 id="portfolio-wrapper"
@@ -35,6 +35,16 @@ class Portfolio extends Component {
               </div>
             </div>
           </div>
+
+
+          <div>
+            <ol>
+              <li>testing 123</li>
+              <li>testing 456</li>
+            </ol>
+          </div>
+
+
         </Fade>
       </section>
     );
